@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ヘブンズバグ",
+  "base_artist": "いよわ",
+  "createdAt": "2026-02-08T08:42:20.978585Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヘブンズバグ",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/pl_01_ヘブンズバグ_いよわ.txt"
+    }
+  ]
+}
